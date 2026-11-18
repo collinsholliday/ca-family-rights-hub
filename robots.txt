@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ca-family-rights-hub.vercel.app/sitemap.xml
